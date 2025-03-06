@@ -1,6 +1,3 @@
-Here’s the **file version** of your `README.md`, so you can copy it directly into your repository:  
-
-```markdown
 # **GitHub-Jira Integration Using Flask & Webhooks**
 
 This project integrates **GitHub Issues** with **Jira** using a **Python Flask application** running on **AWS EC2**. When a GitHub issue comment contains `/jira`, a **GitHub webhook** triggers the Flask app, which automatically creates a corresponding Jira issue.
